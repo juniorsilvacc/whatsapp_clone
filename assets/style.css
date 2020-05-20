@@ -1,0 +1,28 @@
+header, footer{
+    background-color: #EEE;
+    padding: 5px;
+    min-height: 60px;
+}
+
+header img, .list-group img{
+    height: 50px;
+    margin-right: 10px;
+}
+
+header img{
+    margin-left: 16px;
+}
+
+main{
+    background-color: #E5DDD5;
+    min-height: calc(100vh - 121px);
+}
+
+header{
+    border-bottom: 1px solid #DBDBDB;
+}
+
+.timeago{
+    color: #999;
+    font-size: .8em;
+}
